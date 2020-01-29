@@ -1,0 +1,33 @@
+.santhosh{
+    margin-top: -21px;
+    background-color:aqua; 
+    text-align: center;
+    height: 100px;
+  width: 100%;
+}
+ .santhosh1{
+    margin-top: 600px;
+background-color:cyan; 
+text-align: center;
+height: 100px; 
+  width: 100%;
+} 
+.santhosh2{
+    
+background-color: aqua; 
+text-align: center; 
+height: 100%; 
+width: 160px; 
+position: fixed; 
+top: 0; 
+margin-left: 0px;
+ }  
+  .santhosh3{
+     right: 0px;
+     background-color: aqua; 
+     text-align: center; 
+     height: 100%; 
+     width: 160px; 
+     position: fixed; 
+     top: 0;
+ } 
